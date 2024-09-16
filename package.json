@@ -1,0 +1,14 @@
+{
+  "name": "bandid",
+  "version": "1.0.0",
+  "description": "jhbf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascrpit"
+  ],
+  "author": "",
+  "license": "ISC"
+}
