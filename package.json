@@ -1,7 +1,7 @@
 {
-  "name": "bandid",
+  "name": "bandit",
   "version": "1.0.0",
-  "description": "jhbf",
+  "description": "A E-commerce price tracker website",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,6 +11,6 @@
   "keywords": [
     "javascrpit"
   ],
-  "author": "",
+  "author": "Om Shukla",
   "license": "ISC"
 }
