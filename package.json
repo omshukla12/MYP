@@ -9,7 +9,7 @@
     "dev": "nodemon src/index.js"
   },
   "keywords": [
-    "javascrpit"
+    "javascript NodeJS"
   ],
   "author": "Om Shukla",
   "license": "ISC"
